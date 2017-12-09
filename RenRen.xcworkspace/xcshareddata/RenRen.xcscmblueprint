@@ -1,0 +1,55 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392+++DFCF96B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f865b119-63a9-a84a-bf87-7422f63a0cc2++4763+++2101A0A" : {
+
+    },
+    "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++C1A218F" : {
+
+    },
+    "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++B4C4B5A" : {
+
+    },
+    "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392+++DFCF96B" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f865b119-63a9-a84a-bf87-7422f63a0cc2++4763+++2101A0A" : 0,
+    "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++C1A218F" : 0,
+    "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++B4C4B5A" : 0,
+    "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392+++DFCF96B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4518E5D9-892F-4209-8407-40CF123A4A10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f865b119-63a9-a84a-bf87-7422f63a0cc2++4763+++2101A0A" : "MIAOTUI2\/",
+    "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++C1A218F" : "RenRen\/RenRen\/Invite(%E9%82%80%E8%AF%B7)\/Sign(%E7%AD%BE%E5%88%B0)\/Controller\/UIButton-touch\/",
+    "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++B4C4B5A" : "RenRen\/RenRen\/Invite(%E9%82%80%E8%AF%B7)\/Sign(%E7%AD%BE%E5%88%B0)\/Controller\/UIButton-touch\/",
+    "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392+++DFCF96B" : "RenRen\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RenRen",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RenRen.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.80\/svn\/YIMIAOIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392+++DFCF96B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/strivever\/UIButton-touch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++B4C4B5A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.80\/svn\/YIMIAOIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CED2788FFBB0A6E3F210C718D8215C9076B8ABF9+++C1A218F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.80\/svn\/YIMIAOIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f865b119-63a9-a84a-bf87-7422f63a0cc2++4763+++2101A0A"
+    }
+  ]
+}

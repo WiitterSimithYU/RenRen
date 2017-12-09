@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A506BCAC-2E12-4274-95E0-35637F97E22A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392" : "RenRen\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RenRen",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RenRen.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.80\/svn\/YIMIAOIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83222b10-7ad5-964f-bc21-a7c0952f05a2++7392"
+    }
+  ]
+}
